@@ -1,0 +1,3 @@
+# pip install numpy
+# !pip install numpy # 터미널 기능 호출
+import numpy as np
