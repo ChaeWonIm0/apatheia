@@ -1,5 +1,5 @@
 # apatheia
-# This is python's library 'Numpy' studying place (ver.1.23.0)
+# This is python's library Numpy and Pandas studying place (ver.1.23.0)
 
 # I'ill show about numpy things
 # sort of scala, vector, matrix, vector operation, lots of method or sort of things.
