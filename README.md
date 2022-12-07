@@ -1,7 +1,8 @@
 # apatheia
-# This is python's numpy studying place
+# This is python's library 'Numpy' studying place (ver.1.23.0)
 
-# WE WILL SHOW ABOUT ARRAY, VECTOR OPERATION, NP METHOD OR SORT OF THINGS
+# I'ill show about numpy things
+# sort of scala, vector, matrix, vector operation, lots of method or sort of things.
 
 # PLASE. ADVICE EVERTHING, THANK YOU
 since 2022-12-05 apatheia
